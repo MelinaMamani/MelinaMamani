@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🥹, I'm Melina Mamaní</h1>
+<h1 align="center">Hi! I'm Melina Mamaní</h1>
 <h3 align="center">A Passionate ✨Frontend Developer✨ from Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=melinamamani&label=Profile%20views&color=0e75b6&style=flat" alt="melinamamani" /></p>
